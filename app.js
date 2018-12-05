@@ -33,7 +33,6 @@ if(userInput === "read") {
     });
 } else if (userInput === "append") {
     // or append to a file "append"
-    
     appendTextToFile(userText);
 
 } else if (userInput === "movie-this") {
